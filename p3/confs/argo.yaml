@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/almazgar/lgarse_config
+    repoURL: https://github.com/krastykovyaz/inception_lnoisome
     targetRevision: HEAD
     path: p3/confs/manifests
   destination:
